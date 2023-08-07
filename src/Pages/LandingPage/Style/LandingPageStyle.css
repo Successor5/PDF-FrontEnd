@@ -1,0 +1,196 @@
+.LandingPageMainContainer{
+    height:850vh;
+}
+.LandingPageTopNav{
+    height:9%;
+    position: fixed;
+    display: flex;
+    width: 100%;
+    background-color: white;
+}
+.LandingPageLogoBox{
+    height: 93%;
+    width: 10%;
+    background-image: url("../../../Assets/Screenshot\ 2023-08-03\ 141840.png");
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.TopNavLeft{
+    height: 30%;
+    justify-content: space-around;
+    padding: 5%;
+}
+.TopNavLeft:hover{
+    background-color: aliceblue;
+}
+
+.LandingPageTopNavLeft{
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+}
+.LandingPageTopNavRight{
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+    margin-left: 30%;
+}
+.TopNavRightButton{
+    height: 32%;
+    justify-content: space-around;
+    margin-top: 3%;
+    padding: 3%;
+    color: white;
+    background-color: blue;
+}
+.TopNavRight{
+    height: 30%;
+    justify-content: space-around;
+    padding: 5%;
+}
+.TopNavRight:hover{
+    background-color: aliceblue;
+}
+.LandingPageFirst{
+height: 99vh;
+justify-content: space-between;
+display: flex;
+padding: 0.1rem;
+}
+.LandingPageFirstFlex{
+    height: 90%;
+    width: 49%;
+    text-align: justify;
+    justify-content: center;
+    margin-top: 5%;
+}
+.LandingPageSecondFlex{
+    height: 90%;
+    margin-top: 5%;
+    width: 49%;
+    background-repeat: no-repeat;
+    background-image: url("../../../Assets/Screenshot\ 2023-08-03\ 171155.png");
+   
+}
+.LandingPageFirstBigText{
+    font-weight: 700;
+    width: 130%;
+    display: block;
+    font-size: 3rem;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight:400;
+    margin-top: -5%;
+}
+.LandingPageFirstSmallTex{
+    padding: 3.5cm;
+}
+.LandingPageFullBigText{
+    padding: 3.5cm;
+    height: 90%;
+
+}
+.LandingPageFirstSmallBlueButton{
+    margin-bottom: 17%;
+    height: 0.7cm;
+    width: 30%;
+    margin-top: 5%;
+    padding: 1rem;
+    color: white;
+    background-color: rgb(96, 96, 216);
+}
+.company{
+   display: flex;
+    height: 13%;
+    
+}
+.Netflix{
+    background-image: url("../../../Assets/netflix.png");
+    height: 90%;
+    width: 50%;
+    background-size: 50%;
+    background-repeat: no-repeat;
+}
+.meta{
+    background-image: url("../../../Assets/meta.png");
+    height: 90%;
+    width: 30%;
+    margin-top: 3%;
+    background-size: 50%;
+    background-repeat: no-repeat;
+}
+.Apple{
+    background-image: url("../../../Assets/apple-logo.png");
+    height: 90%;
+    width: 30%;
+    margin-top: 3%;
+    background-size: 50%;
+    background-repeat: no-repeat;
+}
+.Google{
+    background-image: url("../../../Assets/google.png");
+    height: 90%;
+    width: 30%;
+    margin-top: 3%;
+    background-size: 70%;
+    background-repeat: no-repeat;
+}
+.amazon{
+    background-image: url("../../../Assets/logo.png");
+    height: 90%;
+    width: 30%;
+    margin-top: 3%;
+    background-size: 70%;
+    background-repeat: no-repeat;
+}
+.LandingPageSecond{
+background-color: rgb(5, 34, 60);
+height: 110vh;
+display: flex;
+padding: 0.5rem;
+}
+.LandingPageSecondFirstFlex{
+    color: white;
+    width: 50%;
+    height: 99%;
+}
+.LandingPageSecondFullBigText{
+    padding: 3.5cm;
+    height: 60%;
+    margin-bottom: 1rem;
+    text-align: justify;
+
+
+}
+.LandingPageSecondBigText{
+    width: 90%;
+    display: block;
+    font-size: 1.9rem;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight:640;
+    margin-top: 5%;
+}
+.LandingPageFirstEmoji{
+    border: solid 2pt red;
+    margin-top: 5%;
+    width: 30%;
+}
+.LandingPageEmojiFlex{
+    display: flex;
+}
+.LandingPageSecondEmoji{
+    border: solid 2pt rgb(5, 5, 5);
+    margin-top: 5%;
+}
+
+.BlueCode {
+    color: blue; 
+    width: 3%;
+    font-size: x-large;
+  }
+ 

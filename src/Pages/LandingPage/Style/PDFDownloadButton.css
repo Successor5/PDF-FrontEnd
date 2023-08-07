@@ -1,0 +1,23 @@
+.container{
+    height: 100vh;
+    border: solid 2pt transparent;
+    background: gray;
+}
+
+.mailbox{
+    height: 13rem;
+    width: 25rem;
+    background-color: aliceblue;
+    border: solid 2pt transparent;
+    border-radius: 6px;
+    margin-top: 8rem;
+    margin-left: 29rem;
+}
+
+input, button{
+    margin-top: 4rem;
+    margin-left: 1rem;
+    border: solid 2pt grey;
+    outline: none;
+    border-radius: 5px;
+}
